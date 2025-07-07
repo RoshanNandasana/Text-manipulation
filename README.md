@@ -40,7 +40,7 @@ Follow these steps to run the **MysticText** text manipulation app on your local
 
 ### 📁 1. Clone the Repository
 ```bash
-https://github.com/RoshanNandasana/Text-manipulation
+git clone https://github.com/RoshanNandasana/Text-manipulation
 cd mystic-text/app
 ```
 ### 📦 2. Install Dependencies
